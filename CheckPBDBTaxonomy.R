@@ -7,13 +7,14 @@
 
 ## 1. Download data ------------------------------------------------------------
 
-# Download data directly from Paleobiology Database and save to working #
+# Download data directly from Paleobiology Database and save to working
 # directory. (Note the downloaded data file will be several tens of megabytes.)
 # DO NOT TEMPORALLY RESTRICT TO PHANEROZOIC! Restricting only includes taxa with
 # fossil occurrences. Here we want ALL taxa with taxonomic opinions.
 
 
-## Easier if paste URL link into browser and save manually as pbdb_data.csv
+## Easier if paste URL link into browser and save manually to working directory
+## as pbdb_data.csv
 getwd()
 # pbdb <- read.csv("www.paleobiodb.org/data1.2/taxa/list.csv?base_name=Metazoa&show=app&vocab=pbdb")
 # If want forams too, use base_name=Metazoa,Retaria
