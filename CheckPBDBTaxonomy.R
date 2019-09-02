@@ -1,7 +1,7 @@
 ## Format Paleobiology Database (PBDB) genus/subgenus occurrences into compact
 ## taxonomic structure (using a parallel-computing environment), including FADs
 ## and LADs. Once done, then checks data for homonyms, problematic duplicate
-## entries, and the frequency of genera with subgenera. Written for Phil
+## entries, and the frequency of genera with subgenera. Written by Phil
 ## Novack-Gottshall, Benedictine University, Lisle, IL
 ## <pnovack-gottshall@ben.edu>
 
